@@ -1,0 +1,12 @@
+body {
+    width: 800px;
+}
+nav, header, section, article, aside, footer {
+    background: #eee;
+    border: 1px solid #6d6d6d;
+    margin: 5px;
+}
+aside {
+    width: 50%;
+    float: right;
+}
